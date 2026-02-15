@@ -124,6 +124,7 @@ The app uses discovery to find your CCUs on the network. We were only able to te
 * HmIP-FSM16
 * HmIP-MOD-HO
 * HmIP-MOD-OC8
+* HmIP-MOD-TM
 * HmIP-PCBS
 * HmIP-PCBS-BAT
 * HmIP-PS-CH

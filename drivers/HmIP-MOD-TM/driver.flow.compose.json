@@ -1,0 +1,11 @@
+{
+    "actions": [
+        {
+            "id": "homematic_mod_tm_set_partial_open",
+            "title": {
+                "en": "Set Ventilation",
+                "de": "Lüften"
+            }
+        }
+    ]
+}
