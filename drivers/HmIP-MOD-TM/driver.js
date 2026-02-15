@@ -14,6 +14,9 @@ class HomematicDriver extends Driver {
             "onoff"
         ];
         this.homematicTypes = ['HmIP-MOD-TM'];
+        this.log('🔍 DEBUG:', 'HmIP-MOD-TM driver initialized');
+        this.log('🔍 DEBUG:', 'Looking for device types:', this.homematicTypes);
+        this.log('🔍 DEBUG:', 'Capabilities:', this.capabilities);
         this.log(this.homematicTypes.join(','), 'has been inited');
 
         this.homey.flow.getActionCard('homematic_mod_tm_set_partial_open')
