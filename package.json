@@ -5,7 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "@twendt/binrpc": "3.3.2",
-    "axios": "^0.21.1",
+    "axios": "^1.13.5",
     "binary": "^0.3.0",
     "freeport": "1.0.5",
     "homematic-xmlrpc": "^1.0.2",
@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "eslint": "^7.13.0",
-    "homey": "^2.14.2"
+    "homey": "^2.22.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
